@@ -1,0 +1,24 @@
+body{
+    background-color: #00ffbb ;
+}
+.donationUnit{
+    background-color: #f4f5e9 ;
+    color: #00ffbb;
+    display: flex;
+    border: 2px solid #f4f5e9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    padding: 20px;
+
+
+}
